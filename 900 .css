@@ -1,0 +1,37 @@
+body
+{
+background: url(https://cdn.wallpapersafari.com/87/18/N6Mszh.jpg);
+}
+
+div
+{
+  box-shadow: 30px 20px ;
+  box-sizing: content-box;  
+  width: 350px;
+  height: 500px;
+  padding: 30px;  
+  margin: 20px 200px 10px 450px;
+  border: 10px solid rgb(255, 154, 0);
+  align-border: center;
+  background-color: rgb(26, 0, 243);
+}
+
+h1
+{
+ margin: 0px 0px;
+ text-align: center;
+ color: rgb(255, 0, 0);
+}
+
+h3
+{
+text-align: justify;
+color: rgb(255, 116, 0);
+font-size: 21;
+}
+
+h2
+{
+font-size: 29;
+margin: 0px 0px 0px 0px;
+}

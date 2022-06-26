@@ -1,0 +1,41 @@
+body
+{
+background-image: url(https://cdn.wallpapersafari.com/7/42/xqlgfA.jpg);
+backgroung-size: cover;
+}
+
+li
+{
+ color: #64EE22;
+ list-style: none;
+ display: inline-block;
+ margin: 20px 20px 0px 20px;
+}
+
+h1
+{
+text-align: center;
+border-bottom: 3px solid #DF3838;
+}
+
+img
+{
+ width: 500px;
+ height: 400px;
+ float: right;
+}
+
+p
+{
+color: rgb(30, 206, 206);
+font-family: helvetica;
+line-height: 1.7;
+font-size:20;
+font-weight: bold;
+font-style: italic;
+}
+
+.airport
+{
+color=""
+}

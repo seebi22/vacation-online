@@ -1,0 +1,41 @@
+body
+{
+background-image: url(https://cdn.wallpapersafari.com/92/21/WTbpSg.jpg);
+backgroung-size: cover;
+}
+
+div
+{
+background-color: #31EAEA;
+}
+
+h2
+{
+ color: white;
+ text-align: center;
+ font-size: 30;
+}
+
+h1
+{
+text-align: center;
+font-size: 42;
+border-bottom: 5px solid rgba(0, 33, 140, 3);
+}
+
+li
+{
+ color:#00A600;
+ list-style: none;
+ display: inline-block;
+ padding: 4px 20px 0px 0px;
+ margin: 20px 20px 0px 0px;
+}
+
+.form
+{
+ color:#FF0700;
+ margin: 7px 500px;
+ font-size: 23;
+ text-align: justify;
+}
